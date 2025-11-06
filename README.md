@@ -1,8 +1,8 @@
-# Orchestrate S2S Payment API Documentation
+# GLOB PAY Orchestrate S2S Payment API Documentation
 
 ## Overview
 
-The Orchestrate S2S (Server-to-Server) Payment API allows you to initiate card payments directly from your server. This integration handles payment processing through Orchestrate and provides callbacks for payment status updates.
+The Globpay Orchestrate S2S (Server-to-Server) Payment API allows you to initiate card payments directly from your server.
 
 ## Base URL
 
